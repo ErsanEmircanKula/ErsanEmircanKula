@@ -25,7 +25,7 @@ I am a Management Information Systems student at Ankara Medipol University. I am
 
 ## My GitHub Stats
 
-![Ersan Emircan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErsanEmircanKula&show_icons=true&theme=radical)
+![Ersan Emircan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ErsanEmircanKula&theme=radical))
 
 ## Top Languages
 
