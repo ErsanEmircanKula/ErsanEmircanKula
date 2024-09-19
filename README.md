@@ -30,5 +30,5 @@ Ankara Medipol Üniversitesi'nde Yönetim Bilişim Sistemleri öğrencisiyim. Ve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://x.com/emorcan06" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/X_logo.svg" alt="X" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Twitter_X.png/640px-Twitter_X.png" alt="X" width="40" height="40"/>
 </a>
