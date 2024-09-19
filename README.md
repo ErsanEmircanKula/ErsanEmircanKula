@@ -27,7 +27,7 @@ Ankara Medipol Üniversitesi'nde Yönetim Bilişim Sistemleri öğrencisiyim. Ve
 ## Bana Ulaşın
 
 <a href="https://www.linkedin.com/in/emircankula/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://x.com/emorcan06" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/X_logo.svg" alt="X" width="40" height="40"/>
