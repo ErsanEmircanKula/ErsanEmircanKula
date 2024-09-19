@@ -23,11 +23,23 @@ I am a Management Information Systems student at Ankara Medipol University. I am
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/640px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/>
 
+## My GitHub Stats
+
+![Ersan Emircan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErsanEmircanKula&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErsanEmircanKula&layout=compact&theme=radical)
+
+## Contribution Graph
+
+![Ersan Emircan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ErsanEmircanKula&theme=dracula)
+
 ## Contact Me
 
 <a href="https://www.linkedin.com/in/emircankula/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://x.com/emorcan06" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Twitter_X.png/640px-Twitter_X.png" alt="X" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Twitter_X.png" alt="X" width="40" height="40"/>
 </a>
