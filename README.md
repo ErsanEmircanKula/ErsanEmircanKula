@@ -20,4 +20,15 @@ Ankara Medipol Üniversitesi'nde Yönetim Bilişim Sistemleri öğrencisiyim. Ve
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+
+## Bana Ulaşın
+
+<a href="https://www.linkedin.com/in/emircankula/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://x.com/emorcan06" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/X_logo.svg" alt="X" width="40" height="40"/>
+</a>
