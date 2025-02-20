@@ -13,6 +13,8 @@ I am a Management Information Systems student at Ankara Medipol University. I am
 ## Projects I'm Working On
 - **[Weekly Notepad - Your Personal Organizer](https://chromewebstore.google.com/detail/Weekly%20Notepad%20-%20Your%20Personal%20Organizer/amjlkabkndodobbpigfahkmapmbdkdih?hl=tr&utm_source=ext_sidebar)**:  
   **Weekly Notepad** is a Chrome extension you can use to organize your personal and professional life. It helps you manage your weekly notes, to-do lists, and reminders, with an easy-to-use interface designed to simplify your planning process. Available for free on the Chrome Web Store.
+- ** [Task Management with R Shiny](https://github.com/ErsanEmircanKula/TaskManagementWithRShiny):**
+A task management application built with R and Shiny, providing an interactive and efficient way to track and manage your tasks. This project aims to enhance productivity with a user-friendly interface and real-time data visualization.
 
 ## Skills
 
