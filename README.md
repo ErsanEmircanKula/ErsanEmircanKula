@@ -1,20 +1,21 @@
 # Hello! I'm Ersan Emircan
 
 ## About Me
-I am a Management Information Systems student at Ankara Medipol University. I am interested in data analysis, business intelligence, and artificial intelligence, and I am working to improve myself in these areas.
+I hold a Bachelor's degree in Management Information Systems and am currently pursuing my Master's degree in the same field. My academic research and projects primarily focus on **Smart Cities**, **Multi-Criteria Decision Making (MCDM)**, and **Cybersecurity**. Alongside my research, I am deeply interested in data analysis, business intelligence, and artificial intelligence, and I continuously work to advance my skills in these areas.
 
 ## My Interests
-- Artificial Intelligence (AI)
-- Data Science
-- Business Analytics
-- Data Visualization
+- Smart Cities & Urban Memory
+- Multi-Criteria Decision Making (MCDM)
+- Cybersecurity
+- Artificial Intelligence (AI) & Data Science
+- Business Analytics & Data Visualization
 - Project Management
 
 ## Projects I'm Working On
 - **[Weekly Notepad - Your Personal Organizer](https://chromewebstore.google.com/detail/Weekly%20Notepad%20-%20Your%20Personal%20Organizer/amjlkabkndodobbpigfahkmapmbdkdih?hl=tr&utm_source=ext_sidebar)**:  
   **Weekly Notepad** is a Chrome extension you can use to organize your personal and professional life. It helps you manage your weekly notes, to-do lists, and reminders, with an easy-to-use interface designed to simplify your planning process. Available for free on the Chrome Web Store.
 - **[Task Management with R Shiny](https://github.com/ErsanEmircanKula/TaskManagementWithRShiny):**
-A task management application built with R and Shiny, providing an interactive and efficient way to track and manage your tasks. This project aims to enhance productivity with a user-friendly interface and real-time data visualization.
+  A task management application built with R and Shiny, providing an interactive and efficient way to track and manage your tasks. This project aims to enhance productivity with a user-friendly interface and real-time data visualization.
 
 ## Skills
 
@@ -27,7 +28,7 @@ A task management application built with R and Shiny, providing an interactive a
 
 ## My GitHub Stats
 
-![Ersan Emircan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ErsanEmircanKula&theme=radical))
+![Ersan Emircan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ErsanEmircanKula&theme=radical)
 
 ## Top Languages
 
@@ -41,7 +42,4 @@ A task management application built with R and Shiny, providing an interactive a
 
 <a href="https://www.linkedin.com/in/emircankula/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="https://x.com/emorcan06" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Twitter_X.png/640px-Twitter_X.png" alt="X" width="40" height="40"/>
 </a>
