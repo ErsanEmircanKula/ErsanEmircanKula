@@ -11,11 +11,30 @@ I hold a Bachelor's degree in Management Information Systems and am currently pu
 - Business Analytics & Data Visualization
 - Project Management
 
-## Projects I'm Working On
-- **[Weekly Notepad - Your Personal Organizer](https://chromewebstore.google.com/detail/Weekly%20Notepad%20-%20Your%20Personal%20Organizer/amjlkabkndodobbpigfahkmapmbdkdih?hl=tr&utm_source=ext_sidebar)**:  
-  **Weekly Notepad** is a Chrome extension you can use to organize your personal and professional life. It helps you manage your weekly notes, to-do lists, and reminders, with an easy-to-use interface designed to simplify your planning process. Available for free on the Chrome Web Store.
-- **[Task Management with R Shiny](https://github.com/ErsanEmircanKula/TaskManagementWithRShiny):**
-  A task management application built with R and Shiny, providing an interactive and efficient way to track and manage your tasks. This project aims to enhance productivity with a user-friendly interface and real-time data visualization.
+## Projects & Portfolio
+
+- **LinkDesk Connection Management Application**
+  Developed a Python desktop application for users to securely store and categorize their links. Integrated a relational database architecture (SQLite) to optimize data consistency and query speed.
+  🔗 [GitHub](https://github.com/ErsanEmircanKula/LinkDesk) | 📺 [YouTube](https://youtu.be/iUkVqE0Mfbs?si=38xdfsTf0YSbBU4O)
+
+- **Great Istanbul Earthquake Scenario Analysis**
+  Modeled dynamic metrics using DAX by integrating risk maps of possible earthquake scenarios into Power BI. Designed an interactive dashboard with 3 main panels for crisis management teams.
+  📺 [YouTube](https://youtu.be/-L6UpJryv_M?si=XOzQcvUc6ikGROgB)
+
+- **Task Management System with R Shiny**
+  Coded a dynamic web interface using R and Shiny. Enabled real-time status tracking by establishing an active SQL database connection in the background.
+  🔗 [GitHub](https://github.com/ErsanEmircanKula/TaskManagementWithRShiny) | 📺 [YouTube](https://youtu.be/Af8vwJE4-dI?si=4Dav5v_TJkvDaqEj)
+
+- **MyLibrary - Library Management System**
+  A comprehensive library management system application.
+  🔗 [GitHub](https://github.com/ErsanEmircanKula/MyLibrary-APP---Library-Management-Syst) | 📺 [YouTube](https://youtu.be/yct8uM_h7Ls?si=mW70j8meDtVy9S4J)
+
+- **SEGE Data Analysis and Visualization Platform (Graduation Project)**
+  Extracted data from provincial and district-level socio-economic development (SEGE) reports using Python (Pandas, NumPy) and developed an interactive visualization platform.
+
+- **Weekly Notepad - Your Personal Organizer**
+  A Chrome extension to organize your personal and professional life. Manage weekly notes, to-do lists, and reminders with an intuitive interface. 
+  🔗 [Chrome Web Store](https://chromewebstore.google.com/detail/Weekly%20Notepad%20-%20Your%20Personal%20Organizer/amjlkabkndodobbpigfahkmapmbdkdih?hl=tr&utm_source=ext_sidebar)
 
 ## Skills
 
@@ -28,15 +47,21 @@ I hold a Bachelor's degree in Management Information Systems and am currently pu
 
 ## My GitHub Stats
 
-![Ersan Emircan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ErsanEmircanKula&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErsanEmircanKula&theme=radical" alt="Ersan Emircan's GitHub Stats" />
+</p>
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErsanEmircanKula&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErsanEmircanKula&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## Contribution Graph
 
-![Ersan Emircan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ErsanEmircanKula&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErsanEmircanKula&theme=dracula" alt="Ersan Emircan's Contribution Graph" />
+</p>
 
 ## Contact Me
 
